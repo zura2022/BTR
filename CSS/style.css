@@ -1,0 +1,31 @@
+body{
+    background-color: orange;
+}
+h1{
+    color: red
+    }
+    p{
+        color: white;
+        font-size: 26px;
+            }
+            a{
+                text-decoration: none;
+                color: black;
+
+           
+            }
+
+            .text-sm{   
+                 color: black;
+                font-size: 25px;
+
+            }
+            
+            #text{
+                background-color: red
+            }
+        
+            .text-color{
+                color: green
+    
+             
