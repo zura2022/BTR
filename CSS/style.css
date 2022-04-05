@@ -1,31 +1,26 @@
-body{
-    background-color: orange;
-}
 h1{
-    color: red
-    }
-    p{
-        color: white;
-        font-size: 26px;
-            }
-            a{
-                text-decoration: none;
-                color: black;
-
-           
-            }
-
-            .text-sm{   
-                 color: black;
-                font-size: 25px;
-
-            }
-            
-            #text{
-                background-color: red
-            }
-        
-            .text-color{
-                color: green
+    border: 5px solid red ;
+  /* border-top-color: red;
+   border-top-style: dotted;
+   border-top-width: 5px;
+   border-bottom-color: rgb(0, 0, 0);
+   border-bottom-style: solid;
+   border-bottom-width: 2px;
+   border-right-color: red;
+   border-right-style: dotted;
+   border-right-width: 5px;
+   border-left-color: rgb(44, 21, 248);
+   border-left-style: dashed;
+   border-left-width: 3px;*/
+  /* border-radius: 50%;*/
+  margin: 20px 25px 15px 10px;
+  background-color: green;
+  padding: 20px 25px 15px 10px;
+}
+.test{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;   
+    border-radius: 30px;
     
-             
+}
